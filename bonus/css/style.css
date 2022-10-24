@@ -41,3 +41,12 @@ section{
 .middle{
     align-self: center;
 }
+.spacearound{
+    justify-content: space-around;
+}
+.spacebetween{
+    justify-content: space-between;
+}
+.green{
+    background-color: #66DD73;
+}

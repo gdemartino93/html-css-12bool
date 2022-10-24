@@ -5,7 +5,7 @@
 
 [class*="col-"]{
     flex: 0 0 auto;
-    background-color: blue;
+    background-color: #316AF1;
     margin: 1px;
     min-height: 50px;
 }
@@ -80,9 +80,3 @@
     margin-left: calc((100% / 12) * 11) ;
 }
 
-.green{
-    background-color: greenyellow;
-}
-.padding{
-    padding: 10px;
-}

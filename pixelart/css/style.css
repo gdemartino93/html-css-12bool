@@ -3,15 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-section{
-    margin: 30px auto;
-}
-.box{
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
+
 .flexcenter{
     justify-content: center;
 }
@@ -32,21 +25,32 @@ section{
     flex-wrap: wrap;
     /* background-color: red; */
 }
-.nested{
-    margin: 10px;
-}
-.end{
-    align-self: flex-end;
-}
-.middle{
-    align-self: center;
-}
-.spacearound{
-    justify-content: space-around;
-}
-.spacebetween{
-    justify-content: space-between;
+
+
+.red{
+    background-color: red;
 }
 .green{
     background-color: #66DD73;
+}
+.brown{
+    background-color: brown;
+}
+.yellow{
+    background-color: #fed562;
+}
+.black{
+    background-color: black;
+}
+.brown{
+    background-color: #734b21;
+}
+.cioccolato{
+    background-color: #c59b6f;
+}
+.red{
+    background-color: red;
+}
+.pelle{
+    background-color: #fee5cc;
 }

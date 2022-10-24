@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    margin: 30px auto;
+}
+.box{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flexcenter{
+    justify-content: center;
+}
+.flexend{
+    justify-content: flex-end;
+}
+.big{
+    min-height: 100px;
+}
+.mezza{
+    height: 50px;
+}
+.row.big{
+    min-height: 100px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: red; */
+}
+.nested{
+    margin: 10px;
+}
+.end{
+    align-self: flex-end;
+}
+.middle{
+    align-self: center;
+}

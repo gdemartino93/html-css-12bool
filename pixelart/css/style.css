@@ -54,3 +54,13 @@
 .pelle{
     background-color: #fee5cc;
 }
+.col-8>span{
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+}
+.col-8.text{
+    border: none;
+}
